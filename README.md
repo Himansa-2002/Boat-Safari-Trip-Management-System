@@ -1,10 +1,10 @@
-Project Title:
+Project Title: 
 Boat Safari Trip Management System
 
 
 A full-stack web-based Boat Safari Booking & Management System that enables users to explore safari packages, book trips, and make secure payments while providing administrators with a powerful dashboard for managing operations.
 
-Live Features:
+Live Features: 
 Customer Features
 Browse safari packages
 Book boat safari rides easily
@@ -19,7 +19,7 @@ Project Overview
 
 The Boat Safari Trip Management System is designed to streamline the entire booking experience for customers while giving administrators full control over bookings and system monitoring.
 
-It solves real-world problems like:
+It solves real-world problems like: 
 
 Manual booking inefficiencies
 Lack of centralized management system
@@ -33,14 +33,14 @@ Poor customer tracking
  Contact & Feedback System
  Tech Stack
  
-Layer	Technology
+Layer	Technology: 
 Frontend	HTML, CSS, JavaScript
 Backend	PHP
 Database	MySQL
 Styling	CSS3
-Scripting	JavaScript (Vanilla)
+Scripting	JavaScript
 
-My Contribution
+My Contribution: 
  Digital Marketing Specialist module
  User Journey design
  Payment page development
