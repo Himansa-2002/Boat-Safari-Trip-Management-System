@@ -1,12 +1,10 @@
-Project Title
+Project Title:
 Boat Safari Trip Management System
 
 
 A full-stack web-based Boat Safari Booking & Management System that enables users to explore safari packages, book trips, and make secure payments while providing administrators with a powerful dashboard for managing operations.
 
-📍 Sri Lanka Institute of Information Technology (SLIIT)
-
-Live Features
+Live Features:
 Customer Features
 Browse safari packages
 Book boat safari rides easily
